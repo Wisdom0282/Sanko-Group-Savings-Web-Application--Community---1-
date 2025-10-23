@@ -5,6 +5,7 @@ import { GroupsView } from './components/GroupsView';
 import { PaymentsView } from './components/PaymentsView';
 import { SettingsView } from './components/SettingsView';
 import { clearState } from './utils/storage';
+import "./index.css";
 
 export default function App() {
   const {
